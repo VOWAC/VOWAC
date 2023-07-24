@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">I'm a student studying web development🌱</h1>
 &nbsp;
+<h3 align="center">Tokyo Design Technology Center | Super IT</h3>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOWAC&layout=compact&show_icons=true&theme=dracula" />
