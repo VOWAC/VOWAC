@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+&nbsp;
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOWAC&layout=compact&show_icons=true&theme=dracula" />
