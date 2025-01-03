@@ -7,7 +7,7 @@
 <a href="https://dona-twinkle-portfolio.vercel.app/">Visit My Portfolio💫</a>
 </p>
 <p align="center">
-  <img alt="dona" height="650px" src="https://github.com/user-attachments/assets/8583c179-bb1a-4553-a4c6-019c6a90ab96" width="450px"/>
+  <img alt="dona" height="650px" src="https://github.com/user-attachments/assets/8583c179-bb1a-4553-a4c6-019c6a90ab96" />
 </p>
 </div>
 
