@@ -11,20 +11,21 @@
 </p>
 </div>
 
-
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=default&font=PixelifySans&quoteType=quote-for-the-day&bgColor=white&fontColor=navy&borderColor=navy" alt="Quote" />
-</p>
-&nbsp;
-&nbsp;
-&nbsp;
-
 ## 🌱 Currently Learning & Interests  
 - 🚀 **Web Frontend Development**  
   - TypeScript / Next.js / Astro.js  
 - 🎨 **UI/UX Design**  
 - 🖌️ **Web Design**    
 - 🌌 **WebGL & Interactive Design**  
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=default&font=PixelifySans&quoteType=quote-for-the-day&bgColor=white&fontColor=navy&borderColor=navy" alt="Quote" />
+</p>
+
 
 <!--
 **VOWAC/VOWAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
