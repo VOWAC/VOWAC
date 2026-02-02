@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=36&pause=1500&color=325EF7&width=435&lines=Hello!+I'm+DONA+%E2%9C%A8" alt="Typing SVG" /></a>
+ Hello I'm VOWAC!
 </p>
   <h2 align="center">I'm currently studying design and engineering, and I'm giving it my all!📚</h2>
 &nbsp;
